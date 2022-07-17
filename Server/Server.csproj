@@ -44,8 +44,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Jogo\ControleJogo.cs" />
-    <Compile Include="Jogo\Jogador.cs" />
+    <Compile Include="Servidor\ControleJogo.cs" />
+    <Compile Include="Servidor\Jogador.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
